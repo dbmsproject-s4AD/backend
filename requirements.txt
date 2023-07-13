@@ -1,0 +1,4 @@
+# Dependencies without versions
+
+python-dotenv
+mysqlclient
